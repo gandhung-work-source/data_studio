@@ -17,4 +17,3 @@ Herewith some of my works from Data Studio
    a) utilise blending from 2 or many sheets/data sources
    b) at dynamic image that can change according filter
    link : https://datastudio.google.com/reporting/145ea5bd-795e-486e-aa5f-eb886ac383c1
- 
